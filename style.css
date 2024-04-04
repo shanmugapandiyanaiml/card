@@ -1,0 +1,17 @@
+body{
+    background-color: yellowgreen;
+    padding-top: 80px;
+}
+.card{
+    display: flex;
+      background-color: yellow;
+      padding: 30px;
+      
+}
+.card-content{
+     padding-left: 30px;
+}
+.sign{
+    background-color: black;
+    color: white;
+}
